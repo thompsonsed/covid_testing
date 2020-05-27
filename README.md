@@ -3,3 +3,9 @@
 Uses the information provided from the UK government.
 
 All code is contained in the *covid_plots.ipynb* notebook.
+
+## Contact
+
+Sam Thompson
+
+thompsonsed@gmail.com
